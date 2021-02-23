@@ -91,7 +91,8 @@
     width: 146px;
     height: 40px;
     margin-right: 25px;
-    border: 1px solid #2C2830;
+    border: 1.5px solid #2C2830;
+    box-sizing: border-box;
   }
   .btnlink{
     width: 146px;
